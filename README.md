@@ -1,5 +1,3 @@
-# Login Noshi
-
 Sistema de cadastro e login em PHP + MySQL, com visual dark minimalista.
 Serve como base para qualquer página que precise de usuário logado: um blog, uma aplicação simples, um jogo com ranking e assim por diante.
 
